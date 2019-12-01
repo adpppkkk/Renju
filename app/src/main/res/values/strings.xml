@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RenJu Game</string>
+    <string name="choose_chess">Choose the Color</string>
+    <string name="first">First Hand</string>
+    <string name="second">Back Hand</string>
+    <string name="player">YOU</string>
+    <string name="computer">AI</string>
+</resources>
